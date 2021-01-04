@@ -1,2 +1,2 @@
-# galaxy-map
-Galaxy map for Untitled Space West Marches Game. Under construction
+# Galaxy Map
+Interactive galaxy map for Untitled West Marches Space Game. Under construction
